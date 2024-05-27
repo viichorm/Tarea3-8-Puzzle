@@ -1,4 +1,7 @@
-# Resolución de 8-puzzle
+# Resolución de 8-puzzle como este
+
+![8_puzzle](https://github.com/viichorm/Tarea3-8-Puzzle/assets/125922459/8c0a26dc-f854-42bf-8795-812a828fe312)
+
 
 # Descripción
 
@@ -27,11 +30,10 @@ En caso de no poder compilar u ejecutar correctamente, puede acceder directament
 
 ## Problemas conocidos:
 
-- Ruego por favor que se ingrese este tablero a la hora de la entrada, debido a que no funciona correctamente con otros trableros. Ademas tambien que al momento de pedir ingresar los valores, no sean caracteres como '' o ], que sino genera un bucle.
+- Ruego por favor que se ingrese este tablero a la hora de la entrada, debido a que no funciona correctamente con otros trableros. Ademas tambien que al momento de pedir ingresar los valores, no sean caracteres como ('' o ]) , que sino genera un bucle.
   
-- 0 2 8
-- 1 3 4
-- 6 5 7
+![image](https://github.com/viichorm/Tarea3-8-Puzzle/assets/125922459/dba01882-11b5-4e66-9518-49e7f6bb2d40)
+
 
 ## A mejorar:
 
@@ -41,10 +43,7 @@ En caso de no poder compilar u ejecutar correctamente, puede acceder directament
 # Ejemplo de uso
 
 ## **Opción Base: Entrada de datos**
-El programa le pedira al usuario que ingrese su tablero, como caso perfecto suguiero este:
-- 0 2 8
-- 1 3 4
-- 6 5 7
+El programa le pedira al usuario que ingrese su tablero, como caso perfecto suguiero el anteriomente mostrado en la imagen.
 
 Es el cual funciona correctamente con las 2 funciones del programa.
 
@@ -70,7 +69,7 @@ Adicionalmente, el programa proporciona una visualización del número total de 
 **Vicente Martinez**:
 - Desarrollo en solitario del codigo, juntos con las funciones.
   
-![d63ac5bcd7d3832dfb44ad829317fbff2ba5b6cf_128](https://github.com/viichorm/Tarea-2/assets/125922459/986606ce-420d-4121-84f2-3cf7e7251010)
+![travis-scott-thatboiicheck](https://github.com/viichorm/Tarea3-8-Puzzle/assets/125922459/3789a377-78c8-41e3-a0ea-185d82c5474a)
 
 
 
